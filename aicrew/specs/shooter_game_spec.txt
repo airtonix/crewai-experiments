@@ -1,0 +1,7 @@
+The game we are going to build is a shoot 'em up game. In this game, the player can shoot projectiles at enemies and move around the screen.
+The enemies will appear at a reasonable pace, gradually increasing over time to make the game more challenging.
+If the player successfully shoots an enemy, the enemy will get destroyed. However, if the player gets hit by an enemy, it's game over!
+
+The player will control a character on the screen, which can be moved using the arrow keys or any other specified controls.
+The character will be equipped with a gun and projectiles that can be fired using a designated button.
+To score points, the player must aim and hit the enemies accurately.

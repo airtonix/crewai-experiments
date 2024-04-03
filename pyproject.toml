@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "aicrew"
+version = "0.1.0"
+description = ""
+authors = ["me"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.10"
+inquirer = "^3.2.3"
+rich = "^13.7.0"
+crewai = "^0.22.5"
+duckduckgo-search = "^4.4"
+crewai-tools = "^0.1.1"
+langchain-community = "^0.0.29"
+langchain = "^0.1.13"
+googlesearch-python = "^1.2.3"
+unstructured = "^0.12.6"
+wcmatch = "^8.5.1"
+argparse = "^1.4.0"
+pre-commit = "^3.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
