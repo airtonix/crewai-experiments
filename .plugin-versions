@@ -1,0 +1,5 @@
+java                 https://github.com/halcyon/asdf-java.git                   912de31
+just                 https://github.com/olofvndrhr/asdf-just.git                93771e1
+poetry               https://github.com/asdf-community/asdf-poetry.git          e2a3c34
+python               https://github.com/danhper/asdf-python.git                 5e277e2
+shellcheck           https://github.com/luizm/asdf-shellcheck.git               780d78d

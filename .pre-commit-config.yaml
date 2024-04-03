@@ -9,5 +9,11 @@ repos:
     rev: 22.10.0
     hooks:
     -   id: black
+-   repo: local
+    hooks:
+    -   id: secretlint
+        name: secretlint
+        language: docker_image
+        entry: secretlint/secretlint:latest secretlint
 
 default_stages: [pre-push]
